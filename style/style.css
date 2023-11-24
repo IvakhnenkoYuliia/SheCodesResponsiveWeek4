@@ -97,6 +97,10 @@ nav a:hover, nav li.active a{
   padding: 15px 30px;
 }
 
+.my-photo{
+  border-radius: 10px;
+}
+
 .project-desciption {
   padding: 120px 60px;
 }
